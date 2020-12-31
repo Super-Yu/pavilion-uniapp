@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "rf-recommend": "/components/rf-recommend/rf-recommend"
+  }
+}

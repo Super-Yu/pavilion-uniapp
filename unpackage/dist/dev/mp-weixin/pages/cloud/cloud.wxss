@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.cloud {
+  padding: 20rpx;
+}
+.cloud .add {
+  margin-bottom: 40rpx;
+}
+.cloud .add image {
+  width: 150rpx;
+  margin-top: 10rpx;
+  border-radius: 10rpx;
+}
+.cloud .img-content {
+  background: #fff;
+  border-radius: 10rpx;
+  padding: 30rpx;
+}
+.cloud .img-content .title {
+  font-weight: 500;
+  font-size: 34rpx;
+  margin-bottom: 20rpx;
+  padding-left: 20rpx;
+  border-left: 6rpx #e54d42 solid;
+}
+.cloud .img-content .listImg image {
+  width: 49%;
+  display: inline-block;
+}
+.cloud .img-content .listImg :nth-child(even) {
+  margin-left: 2%;
+}
+
